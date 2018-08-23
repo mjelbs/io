@@ -1,8 +1,5 @@
-# McEl's Online Portfolio
+<h1>McEl's Online Portfolio</h1>
 
-## this is an h2 in mark down
+<h2>this is an h2 in html</h2>
 
-### this is what a list looks like
-. first item
-. second item
-. third item
+<h3>this is what a list looks like</h3>
