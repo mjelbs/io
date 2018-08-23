@@ -1,6 +1,6 @@
 <h1>McEl Elbrecht's Online Portfolio</h1>
 
-<i><center><h2>Digital Design Artist</h2></center></i>
+<center><h2>Digital Design Artist</h2></center>
 
 <center><h3>Check out my work!</h3></center>
 
